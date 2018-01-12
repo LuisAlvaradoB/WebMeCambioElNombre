@@ -230,3 +230,31 @@ header.masthead {
     background-color: #ee4b28 !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
+
+
+    .footer-bottom {
+        padding: 40px 0 30px;
+        border-top: 1px solid #666;
+        background: #1e1e1e;
+    }
+    .copyright-text p {
+        color: #ccc;
+        margin-top: 9px;
+        margin-bottom: 0;
+    }
+    .social-link li {
+        display: inline-block;
+        margin: 0 5px;
+    }
+    .social-link li a {
+        color: #ccc;
+        border: 1px solid #ccc;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 50%;
+        text-align: center;
+        display: inline-block;
+        font-size: 14px;
+        transition: .5s;
+    }
